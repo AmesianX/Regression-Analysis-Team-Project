@@ -6,6 +6,8 @@
 <img src="readme_img/description.png" width="700" align="center">
 </br>
 
+\*source : [Zillow’s Home Value Prediction Regression](https://www.kaggle.com/c/zillow-prize-1)
+
 ## [ 팀프로젝트 활동 로그 ]
 ### EDA
 - *2018/06/19 (화)*
